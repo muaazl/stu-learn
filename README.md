@@ -97,20 +97,3 @@ npm run dev
 ```
 
 Visit `http://localhost:3000` to start researching.
-
-## ☁️ Deployment
-
-- **Frontend**: Deployed on [Vercel](https://vercel.com).
-- **Backend**: Deployed on [Render](https://render.com).
-- **ML Service**: Containerized via Docker and deployed on [HuggingFace Spaces](https://huggingface.co/spaces).
-
-## 🔮 Future Roadmap
-
-- [ ] **RAG Chatbot**: Chat with your PDF (Retrieval Augmented Generation).
-- [ ] **OCR Support**: Extract text from scanned images.
-- [ ] **User Auth**: Clerk or NextAuth integration for multi-user support.
-- [ ] **Export**: Export summaries to Notion or Markdown.
-
-## 📄 License
-
-This project is licensed under the Apache 2.0 License.
