@@ -45,8 +45,8 @@ StuLearn operates as a Monorepo with three distinct services:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/context-lens.git
-cd context-lens
+git clone https://github.com/YOUR_USERNAME/stu-learn.git
+cd stu-learn
 ```
 
 ### 2. Setup ML Service (The Brain)
