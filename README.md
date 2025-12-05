@@ -5,7 +5,6 @@
 Unlike wrappers around paid APIs (like OpenAI), StuLearn runs its intelligence layer entirely on **open-source models** (MiniLM, T5, BART), ensuring privacy and zero cost.
 
 <img width="1654" height="1966" alt="stu-learn-ui" src="https://github.com/user-attachments/assets/00492331-3ef7-4185-bd81-97951938f7b2" />
-*(Note: Replace the link above with a screenshot of your actual dashboard)*
 
 ## ✨ Key Features
 
